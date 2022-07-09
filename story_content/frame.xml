@@ -14,7 +14,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Articulate Course Assistive Technology Version 4" />
+              <option name="title_text" value="Articulate Course Assistive Technology Version 5" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1575,6 +1575,7 @@
           <links>
             <slidelink slideid="_player.6kRwNkBlvq8.5Uqq4KPBOq2" displaytext="Landing Page" expand="false" type="slide" />
             <slidelink slideid="_player.6kRwNkBlvq8.6GBiS4JZy7S" displaytext="Main Menu" expand="false" type="slide" />
+            <slidelink slideid="_player.6kRwNkBlvq8.6cj1IFO0zI5" displaytext="General" expand="false" type="slide" />
             <slidelink slideid="_player.65THeQiGVS0.6Xc6tIquXrg" displaytext="General" expand="false" type="slide" />
             <slidelink slideid="_player.5s44PBJjlNQ.6ENOcdNubRO" displaytext="General" expand="false" type="slide" />
             <slidelink slideid="_player.5s44PBJjlNQ.67fqwpXeQiH" displaytext="General" expand="false" type="slide" />
